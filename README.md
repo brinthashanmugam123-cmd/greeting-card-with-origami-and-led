@@ -26,7 +26,7 @@ To design and create a creative greeting card by integrating **paper-based artwo
              ↓  
             LED  
                 
-              ![][image1]  
+              ![][image1](circuit.png)  
  
 
 **Key Learning Outcomes :**
